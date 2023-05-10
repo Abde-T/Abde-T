@@ -1,6 +1,6 @@
 
 
-![MasterHead](https://im4.ezgif.com/tmp/ezgif-4-190f6b8111.gif)
+//![MasterHead]()
 
 <h1 align="center">Hi 👋, I'm Abde Tiamani</h1>
 <h3 align="center">Junior frontend developer</h3>
