@@ -1,6 +1,5 @@
 
 
-//![MasterHead]()
 
 <h1 align="center">Hi 👋, I'm Abde Tiamani</h1>
 <h3 align="center">Junior frontend developer</h3>
