@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available in my [portfolio](https://portfolio-abde-t.vercel.app/)
 
-- 📫 How to reach me **tiamani3939@gmail.com**
+- 📫 How to reach me **tiamani3939@gmail.com**.
 
 - 📄 Know about my experiences [resume](https://portfolio-abde-t.vercel.app/assets/resume-461f0bb8.pdf)
 
