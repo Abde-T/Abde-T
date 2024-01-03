@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tiamani3939@gmail.com**.
 
-- 📄 Know about my experiences [resume](https://portfolio-abde-t.vercel.app/assets/Abde-T%20resume-a78b82a2.pdf)
+- 📄 Know about my experiences [resume](https://portfolio-abde-t.vercel.app/assets/Abde-T%20resume-129c52c5.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
