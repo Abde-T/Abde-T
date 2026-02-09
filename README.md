@@ -2,13 +2,21 @@
 
 
 <h1 align="center">Hi 👋, I'm Abderrahmane Tiamani</h1>
-<h3 align="center">Web Software Engineer</h3>
+<h3 align="center">Full-Stack Engineer & SaaS Founder</h3>
 
 - 👨‍💻 All of my projects are available in my [portfolio](http://abdet.vercel.app/)
 
 - 📫 How to reach me **tiamani3939@gmail.com**.
 
-- 📄 Know about my experiences [resume](https://portfolio-abde-t.vercel.app/assets/resume-161cdb65.pdf)
+- 📄 Know about my experiences [resume](https://media.klipflow.com/file/klipflow/resume.pdf)
+
+<h4 align="start">What I’m Working On:</h4> 
+
+- KlipFlow — a browser-based video editor SaaS with FFmpeg rendering pipelines
+
+- AI-driven podcast-to-shorts automation
+
+- Scalable backend architectures using Node.js, GraphQL, Redis, Docker
 
 ###
 
@@ -82,12 +90,15 @@
   </a>
 </div>
 
-
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abde-T&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abde-T&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
 ###
+
+<div align="left" >
+📫 Open to contract and part-time engineering roles.
+</div>
